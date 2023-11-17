@@ -9,3 +9,5 @@ git add
 git commit
 git push
 ```
+
+## 한번 더 연습
